@@ -1583,6 +1583,6 @@ function pyQuitTest(){
   if(confirm('Thoát kiểm tra Pinyin?\nBạn đã làm ' + done + '/' + total + ' từ, đúng ' + correctN + ' từ.')){
     backToApp();
   }
-}
+
 
 
